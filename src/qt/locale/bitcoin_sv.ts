@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Dongcoin</source>
-        <translation>Om Dongcoin</translation>
+        <source>About liliucoin</source>
+        <translation>Om liliucoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Dongcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Dongcoin&lt;/b&gt;-version</translation>
+        <source>&lt;b&gt;liliucoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;liliucoin&lt;/b&gt;-version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -35,8 +35,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+0"/>
-        <source>The Dongcoin developers</source>
-        <translation>Dongcoin-utvecklarna</translation>
+        <source>The liliucoin developers</source>
+        <translation>liliucoin-utvecklarna</translation>
     </message>
 </context>
 <context>
@@ -68,8 +68,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Dongcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Detta är dina Dongcoin-adresser för att ta emot betalningar.  Du kan ge varje avsändare en egen adress så att du kan hålla reda på vem som betalar dig.</translation>
+        <source>These are your liliucoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Detta är dina liliucoin-adresser för att ta emot betalningar.  Du kan ge varje avsändare en egen adress så att du kan hålla reda på vem som betalar dig.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -83,7 +83,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Dongcoin address</source>
+        <source>Sign a message to prove you own a liliucoin address</source>
         <translation>Signera ett meddelande för att bevisa att du äger denna adress</translation>
     </message>
     <message>
@@ -108,8 +108,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Dongcoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den specificerade Dongcoin-adressen</translation>
+        <source>Verify a message to ensure it was signed with a specified liliucoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den specificerade liliucoin-adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -123,8 +123,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Dongcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Detta är dina Dongcoin adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Dongcoins.</translation>
+        <source>These are your liliucoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Detta är dina liliucoin adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar liliucoins.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -139,7 +139,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+1"/>
         <source>Send &amp;Coins</source>
-        <translation>Skicka &amp;Dongcoins</translation>
+        <translation>Skicka &amp;liliucoins</translation>
     </message>
     <message>
         <location line="+260"/>
@@ -276,7 +276,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-56"/>
-        <source>Dongcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dongcoins from being stolen by malware infecting your computer.</source>
+        <source>liliucoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your liliucoins from being stolen by malware infecting your computer.</source>
         <translation>Programmet kommer nu att stänga ner för att färdigställa krypteringen. Tänk på att en krypterad plånbok inte skyddar mot stöld om din dator är infekterad med en keylogger.</translation>
     </message>
     <message>
@@ -322,9 +322,9 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
 </context>
 <context>
-    <name>DongcoinGUI</name>
+    <name>liliucoinGUI</name>
     <message>
-        <location filename="../dongcoingui.cpp" line="+233"/>
+        <location filename="../liliucoingui.cpp" line="+233"/>
         <source>Sign &amp;message...</source>
         <translation>Signera &amp;meddelande...</translation>
     </message>
@@ -375,8 +375,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Dongcoin</source>
-        <translation>Visa information om Dongcoin</translation>
+        <source>Show information about liliucoin</source>
+        <translation>Visa information om liliucoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,13 +420,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Dongcoin address</source>
-        <translation>Skicka mynt till en Dongcoin-adress</translation>
+        <source>Send coins to a liliucoin address</source>
+        <translation>Skicka mynt till en liliucoin-adress</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Dongcoin</source>
-        <translation>Ändra konfigurationsalternativ för Dongcoin</translation>
+        <source>Modify configuration options for liliucoin</source>
+        <translation>Ändra konfigurationsalternativ för liliucoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -456,8 +456,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Dongcoin</source>
-        <translation>Dongcoin</translation>
+        <source>liliucoin</source>
+        <translation>liliucoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -481,8 +481,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Dongcoin</source>
-        <translation>&amp;Om Dongcoin</translation>
+        <source>&amp;About liliucoin</source>
+        <translation>&amp;Om liliucoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -501,13 +501,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Dongcoin addresses to prove you own them</source>
-        <translation>Signera meddelanden med din Dongcoinadress för att bevisa att du äger dem</translation>
+        <source>Sign messages with your liliucoin addresses to prove you own them</source>
+        <translation>Signera meddelanden med din liliucoinadress för att bevisa att du äger dem</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Dongcoin addresses</source>
-        <translation>Verifiera meddelanden för att vara säker på att de var signerade med den specificerade Dongcoin-adressen</translation>
+        <source>Verify messages to ensure they were signed with specified liliucoin addresses</source>
+        <translation>Verifiera meddelanden för att vara säker på att de var signerade med den specificerade liliucoin-adressen</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -537,13 +537,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+47"/>
-        <source>Dongcoin client</source>
-        <translation>Dongcoin-klient</translation>
+        <source>liliucoin client</source>
+        <translation>liliucoin-klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Dongcoin network</source>
-        <translation><numerusform>%n aktiv anslutning till Dongcoin-nätverket</numerusform><numerusform>%n aktiva anslutningar till Dongcoin-nätverket</numerusform></translation>
+        <source>%n active connection(s) to liliucoin network</source>
+        <translation><numerusform>%n aktiv anslutning till liliucoin-nätverket</numerusform><numerusform>%n aktiva anslutningar till liliucoin-nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -657,8 +657,8 @@ Adress: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Dongcoin address or malformed URI parameters.</source>
-        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig Dongcoin-adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid liliucoin address or malformed URI parameters.</source>
+        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig liliucoin-adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,9 +671,9 @@ Adress: %4
         <translation>Denna plånbok är &lt;b&gt;krypterad&lt;/b&gt; och för närvarande &lt;b&gt;låst&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../dongcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Dongcoin can no longer continue safely and will quit.</source>
-        <translation>Ett allvarligt fel har uppstått. Dongcoin kan inte längre köras säkert och kommer att avslutas.</translation>
+        <location filename="../liliucoin.cpp" line="+111"/>
+        <source>A fatal error occurred. liliucoin can no longer continue safely and will quit.</source>
+        <translation>Ett allvarligt fel har uppstått. liliucoin kan inte längre köras säkert och kommer att avslutas.</translation>
     </message>
 </context>
 <context>
@@ -738,8 +738,8 @@ Adress: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Dongcoin address.</source>
-        <translation>Den angivna adressen &quot;%1&quot; är inte en giltig Dongcoin-adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid liliucoin address.</source>
+        <translation>Den angivna adressen &quot;%1&quot; är inte en giltig liliucoin-adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -757,8 +757,8 @@ Adress: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Dongcoin-Qt</source>
-        <translation>Dongcoin-Qt</translation>
+        <source>liliucoin-Qt</source>
+        <translation>liliucoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -820,13 +820,13 @@ Adress: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Dongcoin after logging in to the system.</source>
-        <translation>Starta Dongcoin automatiskt efter inloggning.</translation>
+        <source>Automatically start liliucoin after logging in to the system.</source>
+        <translation>Starta liliucoin automatiskt efter inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Dongcoin on system login</source>
-        <translation>&amp;Starta Dongcoin vid systemstart</translation>
+        <source>&amp;Start liliucoin on system login</source>
+        <translation>&amp;Starta liliucoin vid systemstart</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -845,8 +845,8 @@ Adress: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Dongcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Dongcoin-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
+        <source>Automatically open the liliucoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt liliucoin-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -855,8 +855,8 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Dongcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till Dongcoin-nätverket genom en SOCKS-proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the liliucoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till liliucoin-nätverket genom en SOCKS-proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -930,8 +930,8 @@ Adress: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dongcoin.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Denna inställning träder i kraft efter en omstart av Dongcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting liliucoin.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Denna inställning träder i kraft efter en omstart av liliucoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -945,8 +945,8 @@ Adress: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Dongcoin addresses in the transaction list or not.</source>
-        <translation>Anger om Dongcoin-adresser skall visas i transaktionslistan.</translation>
+        <source>Whether to show liliucoin addresses in the transaction list or not.</source>
+        <translation>Anger om liliucoin-adresser skall visas i transaktionslistan.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -997,8 +997,8 @@ Adress: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Dongcoin.</source>
-        <translation>Denna inställning träder i kraft efter en omstart av Dongcoin.</translation>
+        <source>This setting will take effect after restarting liliucoin.</source>
+        <translation>Denna inställning träder i kraft efter en omstart av liliucoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1016,8 +1016,8 @@ Adress: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dongcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med Dongcoin-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the liliucoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med liliucoin-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1070,7 +1070,7 @@ Adress: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start dongcoin: click-to-pay handler</source>
+        <source>Cannot start liliucoin: click-to-pay handler</source>
         <translation>Kan inte starta bitcin: klicka-och-betala handhavare</translation>
     </message>
 </context>
@@ -1220,8 +1220,8 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Dongcoin-Qt help message to get a list with possible Dongcoin command-line options.</source>
-        <translation>Visa Dongcoin-Qt hjälpmeddelande för att få en lista med möjliga Dongcoin kommandoradsalternativ.</translation>
+        <source>Show the liliucoin-Qt help message to get a list with possible liliucoin command-line options.</source>
+        <translation>Visa liliucoin-Qt hjälpmeddelande för att få en lista med möjliga liliucoin kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1240,13 +1240,13 @@ Adress: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Dongcoin - Debug window</source>
-        <translation>Dongcoin - Debug fönster</translation>
+        <source>liliucoin - Debug window</source>
+        <translation>liliucoin - Debug fönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Dongcoin Core</source>
-        <translation>Dongcoin Kärna</translation>
+        <source>liliucoin Core</source>
+        <translation>liliucoin Kärna</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1255,8 +1255,8 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Dongcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Dongcoin debug-loggfilen som finns i datakatalogen. Detta kan ta några sekunder för stora loggfiler.</translation>
+        <source>Open the liliucoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna liliucoin debug-loggfilen som finns i datakatalogen. Detta kan ta några sekunder för stora loggfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1265,8 +1265,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Dongcoin RPC console.</source>
-        <translation>Välkommen till Dongcoin RPC-konsollen.</translation>
+        <source>Welcome to the liliucoin RPC console.</source>
+        <translation>Välkommen till liliucoin RPC-konsollen.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1449,8 +1449,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Dongcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Ange en Dongcoin-adress (t.ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a liliucoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Ange en liliucoin-adress (t.ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1514,7 +1514,7 @@ Adress: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Dongcoin address</source>
+        <source>Sign the message to prove you own this liliucoin address</source>
         <translation>Signera meddelandet för att bevisa att du äger denna adress</translation>
     </message>
     <message>
@@ -1550,8 +1550,8 @@ Adress: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Dongcoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna Dongcoin-adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified liliucoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna liliucoin-adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1566,8 +1566,8 @@ Adress: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Dongcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Ange en Dongcoin-adress (t.ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a liliucoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Ange en liliucoin-adress (t.ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1576,8 +1576,8 @@ Adress: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Dongcoin signature</source>
-        <translation>Ange Dongcoin-signatur</translation>
+        <source>Enter liliucoin signature</source>
+        <translation>Ange liliucoin-signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1650,8 +1650,8 @@ Adress: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Dongcoin developers</source>
-        <translation>Dongcoin-utvecklarna</translation>
+        <source>The liliucoin developers</source>
+        <translation>liliucoin-utvecklarna</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2185,11 +2185,11 @@ Adress: %4
     </message>
 </context>
 <context>
-    <name>dongcoin-core</name>
+    <name>liliucoin-core</name>
     <message>
-        <location filename="../dongcoinstrings.cpp" line="+94"/>
-        <source>Dongcoin version</source>
-        <translation>Dongcoin version</translation>
+        <location filename="../liliucoinstrings.cpp" line="+94"/>
+        <source>liliucoin version</source>
+        <translation>liliucoin version</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2198,8 +2198,8 @@ Adress: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or dongcoind</source>
-        <translation>Skicka kommando till -server eller dongcoind</translation>
+        <source>Send command to -server or liliucoind</source>
+        <translation>Skicka kommando till -server eller liliucoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2218,13 +2218,13 @@ Adress: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: dongcoin.conf)</source>
-        <translation>Ange konfigurationsfil (förvalt: dongcoin.conf)</translation>
+        <source>Specify configuration file (default: liliucoin.conf)</source>
+        <translation>Ange konfigurationsfil (förvalt: liliucoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: dongcoind.pid)</source>
-        <translation>Ange pid fil (förvalt: dongcoind.pid)</translation>
+        <source>Specify pid file (default: liliucoind.pid)</source>
+        <translation>Ange pid fil (förvalt: liliucoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2301,24 +2301,24 @@ Adress: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=dongcoinrpc
+rpcuser=liliucoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dongcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;liliucoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, du behöver sätta ett rpclösensord i konfigurationsfilen:
 %s
 Det är rekommenderat att använda följande slumpade lösenord:
-rpcuser=dongcoinrpc
+rpcuser=liliucoinrpc
 rpcpassword=%s
 (du behöver inte komma ihåg lösenordet)
 Användarnamnet och lösenordet FÅR INTE bara detsamma.
 Om filen inte existerar, skapa den med enbart ägarläsbara filrättigheter.
 Det är också rekommenderat att sätta alertnotify så du meddelas om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;Dongcoin Alert&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;liliucoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2333,8 +2333,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Dongcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Dongcoin is probably already running.</source>
-        <translation>Kan inte låsa data-mappen %s. Dongcoin körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. liliucoin is probably already running.</source>
+        <translation>Kan inte låsa data-mappen %s. liliucoin körs förmodligen redan.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2344,7 +2344,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Dongcoin Alert&quot; admin@fo
     <message>
         <location line="+4"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
-        <translation>Fel: Denna transaktion kräver en transaktionsavgift på minst %s på grund av dess storlek, komplexitet, eller användning av senast mottagna dongcoins!</translation>
+        <translation>Fel: Denna transaktion kräver en transaktionsavgift på minst %s på grund av dess storlek, komplexitet, eller användning av senast mottagna liliucoins!</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2378,8 +2378,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Dongcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dongcoin will not work properly.</source>
-        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer Dongcoin inte fungera korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong liliucoin will not work properly.</source>
+        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer liliucoin inte fungera korrekt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2628,8 +2628,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Dongcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Dongcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-inställningar: (se Dongcoin-wikin för SSL-setup instruktioner)</translation>
+        <source>SSL options: (see the liliucoin Wiki for SSL setup instructions)</source>
+        <translation>SSL-inställningar: (se liliucoin-wikin för SSL-setup instruktioner)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2818,13 +2818,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Dongcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dongcoin</source>
-        <translation>Fel vid inläsningen av wallet.dat: Plånboken kräver en senare version av Dongcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of liliucoin</source>
+        <translation>Fel vid inläsningen av wallet.dat: Plånboken kräver en senare version av liliucoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Dongcoin to complete</source>
-        <translation>Plånboken behöver skrivas om: Starta om Dongcoin för att färdigställa</translation>
+        <source>Wallet needed to be rewritten: restart liliucoin to complete</source>
+        <translation>Plånboken behöver skrivas om: Starta om liliucoin för att färdigställa</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2869,7 +2869,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Dongcoin Alert&quot; admin@fo
     <message>
         <location line="-6"/>
         <source>Insufficient funds</source>
-        <translation>Otillräckligt med dongcoins</translation>
+        <translation>Otillräckligt med liliucoins</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2883,8 +2883,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Dongcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Dongcoin is probably already running.</source>
-        <translation>Det går inte att binda till %s på den här datorn. Dongcoin är förmodligen redan igång.</translation>
+        <source>Unable to bind to %s on this computer. liliucoin is probably already running.</source>
+        <translation>Det går inte att binda till %s på den här datorn. liliucoin är förmodligen redan igång.</translation>
     </message>
     <message>
         <location line="+64"/>

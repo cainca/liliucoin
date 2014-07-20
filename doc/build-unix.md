@@ -14,7 +14,7 @@ To Build
 	cd src/
 	make -f makefile.unix		# Headless bitcoin
 
-See readme-qt.rst for instructions on building Dongcoin-Qt, the graphical user interface.
+See readme-qt.rst for instructions on building liliucoin-Qt, the graphical user interface.
 
 Dependencies
 ---------------------
@@ -82,21 +82,21 @@ Optional:
 Dependency Build Instructions: Gentoo
 -------------------------------------
 
-Note: If you just want to install dongcoind on Gentoo, you can add the Bitcoin overlay and use your package manager:
+Note: If you just want to install liliucoind on Gentoo, you can add the Bitcoin overlay and use your package manager:
 
-	layman -a bitcoin && emerge dongcoind
+	layman -a bitcoin && emerge liliucoind
 	emerge -av1 --noreplace boost glib openssl sys-libs/db:4.8
 
 Take the following steps to build (no UPnP support):
 
 	cd ${BITCOIN_DIR}/src
 	make -f makefile.unix USE_UPNP= USE_IPV6=1 BDB_INCLUDE_PATH='/usr/include/db4.8'
-	strip dongcoind
+	strip liliucoind
 
 
 Notes
 -----
-The release is built with GCC and then "strip dongcoind" to strip the debug
+The release is built with GCC and then "strip liliucoind" to strip the debug
 symbols, which reduces the executable size by about 90%.
 
 

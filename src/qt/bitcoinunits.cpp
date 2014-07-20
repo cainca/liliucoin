@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case DNG: return QString("Dongcoins");
-    case mDNG: return QString("Milli-Dongcoins (1 / 1,000)");
-    case uDNG: return QString("Micro-Dongcoins (1 / 1,000,000)");
+    case DNG: return QString("liliucoins");
+    case mDNG: return QString("Milli-liliucoins (1 / 1,000)");
+    case uDNG: return QString("Micro-liliucoins (1 / 1,000,000)");
     default: return QString("???");
     }
 }

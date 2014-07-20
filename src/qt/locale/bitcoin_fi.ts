@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Dongcoin</source>
-        <translation>Tietoa Dongcoinista</translation>
+        <source>About liliucoin</source>
+        <translation>Tietoa liliucoinista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Dongcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Dongcoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;liliucoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;liliucoin&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -35,7 +35,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+0"/>
-        <source>The Dongcoin developers</source>
+        <source>The liliucoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -68,8 +68,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Dongcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat Dongcoin-osoitteesi joihin voit vastaanottaa maksuja. Voit haluta antaa jokaiselle maksajalle omansa, että pystyt seuraamaan keneltä maksut tulevat.</translation>
+        <source>These are your liliucoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat liliucoin-osoitteesi joihin voit vastaanottaa maksuja. Voit haluta antaa jokaiselle maksajalle omansa, että pystyt seuraamaan keneltä maksut tulevat.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -83,8 +83,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Dongcoin address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat Dongcoin-osoitteen</translation>
+        <source>Sign a message to prove you own a liliucoin address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat liliucoin-osoitteen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -108,8 +108,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Dongcoin address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Dongcoin-osoitteella</translation>
+        <source>Verify a message to ensure it was signed with a specified liliucoin address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä liliucoin-osoitteella</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -123,7 +123,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Dongcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your liliucoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -276,8 +276,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-56"/>
-        <source>Dongcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dongcoins from being stolen by malware infecting your computer.</source>
-        <translation>Dongcoin sulkeutuu lopettaakseen salausprosessin. Muista, että salattukaan lompakko ei täysin suojaa sitä haittaohjelmien aiheuttamilta varkauksilta.</translation>
+        <source>liliucoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your liliucoins from being stolen by malware infecting your computer.</source>
+        <translation>liliucoin sulkeutuu lopettaakseen salausprosessin. Muista, että salattukaan lompakko ei täysin suojaa sitä haittaohjelmien aiheuttamilta varkauksilta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -322,9 +322,9 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
 </context>
 <context>
-    <name>DongcoinGUI</name>
+    <name>liliucoinGUI</name>
     <message>
-        <location filename="../dongcoingui.cpp" line="+233"/>
+        <location filename="../liliucoingui.cpp" line="+233"/>
         <source>Sign &amp;message...</source>
         <translation>&amp;Allekirjoita viesti...</translation>
     </message>
@@ -361,7 +361,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="-14"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation>Näytä Dongcoinien vastaanottamiseen käytetyt osoitteet</translation>
+        <translation>Näytä liliucoinien vastaanottamiseen käytetyt osoitteet</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -375,8 +375,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Dongcoin</source>
-        <translation>Näytä tietoa Dongcoin-projektista</translation>
+        <source>Show information about liliucoin</source>
+        <translation>Näytä tietoa liliucoin-projektista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,13 +420,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Dongcoin address</source>
-        <translation>Lähetä kolikoita Dongcoin-osoitteeseen</translation>
+        <source>Send coins to a liliucoin address</source>
+        <translation>Lähetä kolikoita liliucoin-osoitteeseen</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Dongcoin</source>
-        <translation>Muuta Dongcoinin konfiguraatioasetuksia</translation>
+        <source>Modify configuration options for liliucoin</source>
+        <translation>Muuta liliucoinin konfiguraatioasetuksia</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -456,8 +456,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Dongcoin</source>
-        <translation>Dongcoin</translation>
+        <source>liliucoin</source>
+        <translation>liliucoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -481,8 +481,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Dongcoin</source>
-        <translation>&amp;Tietoa Dongcoinista</translation>
+        <source>&amp;About liliucoin</source>
+        <translation>&amp;Tietoa liliucoinista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -492,7 +492,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="+1"/>
         <source>Show or hide the main Window</source>
-        <translation>Näytä tai piilota Dongcoin-ikkuna</translation>
+        <translation>Näytä tai piilota liliucoin-ikkuna</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -501,13 +501,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Dongcoin addresses to prove you own them</source>
-        <translation>Allekirjoita viestisi omalla Dongcoin -osoitteellasi todistaaksesi, että omistat ne</translation>
+        <source>Sign messages with your liliucoin addresses to prove you own them</source>
+        <translation>Allekirjoita viestisi omalla liliucoin -osoitteellasi todistaaksesi, että omistat ne</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Dongcoin addresses</source>
-        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Dongcoin -osoitteella</translation>
+        <source>Verify messages to ensure they were signed with specified liliucoin addresses</source>
+        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä liliucoin -osoitteella</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -537,13 +537,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+47"/>
-        <source>Dongcoin client</source>
-        <translation>Dongcoin-asiakas</translation>
+        <source>liliucoin client</source>
+        <translation>liliucoin-asiakas</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Dongcoin network</source>
-        <translation><numerusform>%n aktiivinen yhteys Dongcoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Dongcoin-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to liliucoin network</source>
+        <translation><numerusform>%n aktiivinen yhteys liliucoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä liliucoin-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Osoite: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Dongcoin address or malformed URI parameters.</source>
-        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta Dongcoin-osoitteesta tai virheellisistä URI parametreista.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid liliucoin address or malformed URI parameters.</source>
+        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta liliucoin-osoitteesta tai virheellisistä URI parametreista.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,9 +670,9 @@ Osoite: %4</translation>
         <translation>Lompakko on &lt;b&gt;salattu&lt;/b&gt; ja tällä hetkellä &lt;b&gt;lukittuna&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../dongcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Dongcoin can no longer continue safely and will quit.</source>
-        <translation>Peruuttamaton virhe on tapahtunut. Dongcoin ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
+        <location filename="../liliucoin.cpp" line="+111"/>
+        <source>A fatal error occurred. liliucoin can no longer continue safely and will quit.</source>
+        <translation>Peruuttamaton virhe on tapahtunut. liliucoin ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Dongcoin address.</source>
-        <translation>Antamasi osoite &quot;%1&quot; ei ole validi Dongcoin-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid liliucoin address.</source>
+        <translation>Antamasi osoite &quot;%1&quot; ei ole validi liliucoin-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Osoite: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Dongcoin-Qt</source>
-        <translation>Dongcoin-Qt</translation>
+        <source>liliucoin-Qt</source>
+        <translation>liliucoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Dongcoin after logging in to the system.</source>
-        <translation>Käynnistä Dongcoin kirjautumisen yhteydessä.</translation>
+        <source>Automatically start liliucoin after logging in to the system.</source>
+        <translation>Käynnistä liliucoin kirjautumisen yhteydessä.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Dongcoin on system login</source>
-        <translation>&amp;Käynnistä Dongcoin kirjautumisen yhteydessä</translation>
+        <source>&amp;Start liliucoin on system login</source>
+        <translation>&amp;Käynnistä liliucoin kirjautumisen yhteydessä</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Dongcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Dongcoin-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
+        <source>Automatically open the liliucoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa liliucoin-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Dongcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Ota yhteys Dongcoin-verkkoon SOCKS-proxyn läpi (esimerkiksi kun haluat käyttää Tor-verkkoa).</translation>
+        <source>Connect to the liliucoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Ota yhteys liliucoin-verkkoon SOCKS-proxyn läpi (esimerkiksi kun haluat käyttää Tor-verkkoa).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -910,7 +910,7 @@ Osoite: %4</translation>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Ikkunaa suljettaessa vain pienentää Dongcoin-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
+        <translation>Ikkunaa suljettaessa vain pienentää liliucoin-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,23 +929,23 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dongcoin.</source>
-        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun Dongcoin käynnistetään.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting liliucoin.</source>
+        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun liliucoin käynnistetään.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>Yksikkö jona dongcoin-määrät näytetään</translation>
+        <translation>Yksikkö jona liliucoin-määrät näytetään</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Valitse mitä yksikköä käytetään ensisijaisesti dongcoin-määrien näyttämiseen.</translation>
+        <translation>Valitse mitä yksikköä käytetään ensisijaisesti liliucoin-määrien näyttämiseen.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Dongcoin addresses in the transaction list or not.</source>
-        <translation>Näytetäänkö Dongcoin-osoitteet rahansiirrot listassa vai ei.</translation>
+        <source>Whether to show liliucoin addresses in the transaction list or not.</source>
+        <translation>Näytetäänkö liliucoin-osoitteet rahansiirrot listassa vai ei.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Osoite: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Dongcoin.</source>
-        <translation>Tämä asetus astuu voimaan seuraavalla kerralla, kun Dongcoin käynnistetään.</translation>
+        <source>This setting will take effect after restarting liliucoin.</source>
+        <translation>Tämä asetus astuu voimaan seuraavalla kerralla, kun liliucoin käynnistetään.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Osoite: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dongcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Dongcoin-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the liliucoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu liliucoin-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1051,12 +1051,12 @@ Osoite: %4</translation>
     <message>
         <location line="-101"/>
         <source>Your current balance</source>
-        <translation>Tililläsi tällä hetkellä olevien Dongcoinien määrä</translation>
+        <translation>Tililläsi tällä hetkellä olevien liliucoinien määrä</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>Niiden saapuvien rahansiirtojen määrä, joita Dongcoin-verkko ei vielä ole ehtinyt vahvistaa ja siten eivät vielä näy saldossa.</translation>
+        <translation>Niiden saapuvien rahansiirtojen määrä, joita liliucoin-verkko ei vielä ole ehtinyt vahvistaa ja siten eivät vielä näy saldossa.</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+116"/>
@@ -1069,7 +1069,7 @@ Osoite: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start dongcoin: click-to-pay handler</source>
+        <source>Cannot start liliucoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1219,8 +1219,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Dongcoin-Qt help message to get a list with possible Dongcoin command-line options.</source>
-        <translation>Näytä Dongcoin-Qt komentoriviparametrien ohjesivu, jossa on listattuna mahdolliset komentoriviparametrit.</translation>
+        <source>Show the liliucoin-Qt help message to get a list with possible liliucoin command-line options.</source>
+        <translation>Näytä liliucoin-Qt komentoriviparametrien ohjesivu, jossa on listattuna mahdolliset komentoriviparametrit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Dongcoin - Debug window</source>
-        <translation>Dongcoin - Debug ikkuna</translation>
+        <source>liliucoin - Debug window</source>
+        <translation>liliucoin - Debug ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Dongcoin Core</source>
-        <translation>Dongcoin-ydin</translation>
+        <source>liliucoin Core</source>
+        <translation>liliucoin-ydin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,7 +1254,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Dongcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the liliucoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Avaa lokitiedosto nykyisestä data-kansiosta. Tämä voi viedä useamman sekunnin, jos lokitiedosto on iso.</translation>
     </message>
     <message>
@@ -1264,8 +1264,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Dongcoin RPC console.</source>
-        <translation>Tervetuloa Dongcoin RPC konsoliin.</translation>
+        <source>Welcome to the liliucoin RPC console.</source>
+        <translation>Tervetuloa liliucoin RPC konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1290,7 +1290,7 @@ Osoite: %4</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Lähetä Dongcoineja</translation>
+        <translation>Lähetä liliucoineja</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1340,7 +1340,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Hyväksy Dongcoinien lähettäminen</translation>
+        <translation>Hyväksy liliucoinien lähettäminen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1360,7 +1360,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Maksettavan summan tulee olla suurempi kuin 0 Dongcoinia.</translation>
+        <translation>Maksettavan summan tulee olla suurempi kuin 0 liliucoinia.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1385,7 +1385,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Virhe: Rahansiirto hylättiin.  Tämä voi tapahtua jos jotkin dongcoineistasi on jo käytetty, esimerkiksi jos olet käyttänyt kopiota wallet.dat-lompakkotiedostosta ja dongcoinit on merkitty käytetyksi vain kopiossa.</translation>
+        <translation>Virhe: Rahansiirto hylättiin.  Tämä voi tapahtua jos jotkin liliucoineistasi on jo käytetty, esimerkiksi jos olet käyttänyt kopiota wallet.dat-lompakkotiedostosta ja liliucoinit on merkitty käytetyksi vain kopiossa.</translation>
     </message>
 </context>
 <context>
@@ -1448,8 +1448,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Dongcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Anna Dongcoin-osoite (esim. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a liliucoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Anna liliucoin-osoite (esim. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Dongcoin address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Dongcoin-osoitteen</translation>
+        <source>Sign the message to prove you own this liliucoin address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän liliucoin-osoitteen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Dongcoin address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Dongcoin-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified liliucoin address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä liliucoin-osoitteella</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Osoite: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Dongcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Anna Dongcoin-osoite (esim. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a liliucoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Anna liliucoin-osoite (esim. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Dongcoin signature</source>
-        <translation>Syötä Dongcoin-allekirjoitus</translation>
+        <source>Enter liliucoin signature</source>
+        <translation>Syötä liliucoin-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,7 +1649,7 @@ Osoite: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Dongcoin developers</source>
+        <source>The liliucoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1955,7 +1955,7 @@ Osoite: %4</translation>
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation>Rahansiirron kohteen Dongcoin-osoite</translation>
+        <translation>Rahansiirron kohteen liliucoin-osoite</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2137,7 +2137,7 @@ Osoite: %4</translation>
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>Lähetä Dongcoineja</translation>
+        <translation>Lähetä liliucoineja</translation>
     </message>
 </context>
 <context>
@@ -2184,11 +2184,11 @@ Osoite: %4</translation>
     </message>
 </context>
 <context>
-    <name>dongcoin-core</name>
+    <name>liliucoin-core</name>
     <message>
-        <location filename="../dongcoinstrings.cpp" line="+94"/>
-        <source>Dongcoin version</source>
-        <translation>Dongcoinin versio</translation>
+        <location filename="../liliucoinstrings.cpp" line="+94"/>
+        <source>liliucoin version</source>
+        <translation>liliucoinin versio</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or dongcoind</source>
-        <translation>Lähetä käsky palvelimelle tai dongcoind:lle</translation>
+        <source>Send command to -server or liliucoind</source>
+        <translation>Lähetä käsky palvelimelle tai liliucoind:lle</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: dongcoin.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: dongcoin.conf)</translation>
+        <source>Specify configuration file (default: liliucoin.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: liliucoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: dongcoind.pid)</source>
-        <translation>Määritä pid-tiedosto (oletus: dongcoin.pid)</translation>
+        <source>Specify pid file (default: liliucoind.pid)</source>
+        <translation>Määritä pid-tiedosto (oletus: liliucoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,13 +2300,13 @@ Osoite: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=dongcoinrpc
+rpcuser=liliucoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dongcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;liliucoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2322,7 +2322,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dongcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Dongcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. liliucoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2367,8 +2367,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dongcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dongcoin will not work properly.</source>
-        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat paikkansapitäviä! Dongcoin ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong liliucoin will not work properly.</source>
+        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat paikkansapitäviä! liliucoin ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2617,8 +2617,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dongcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Dongcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL asetukset (katso Dongcoin Wikistä tarkemmat SSL ohjeet)</translation>
+        <source>SSL options: (see the liliucoin Wiki for SSL setup instructions)</source>
+        <translation>SSL asetukset (katso liliucoin Wikistä tarkemmat SSL ohjeet)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2808,13 +2808,13 @@ TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dongcoin</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Dongcoinista</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of liliucoin</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version liliucoinista</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Dongcoin to complete</source>
-        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Dongcoin uudelleen</translation>
+        <source>Wallet needed to be rewritten: restart liliucoin to complete</source>
+        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä liliucoin uudelleen</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2873,8 +2873,8 @@ TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Dongcoin is probably already running.</source>
-        <translation>Kytkeytyminen %s ei onnistu tällä tietokoneella. Dongcoin on todennäköisesti jo ajamassa.</translation>
+        <source>Unable to bind to %s on this computer. liliucoin is probably already running.</source>
+        <translation>Kytkeytyminen %s ei onnistu tällä tietokoneella. liliucoin on todennäköisesti jo ajamassa.</translation>
     </message>
     <message>
         <location line="+64"/>

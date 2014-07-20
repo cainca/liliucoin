@@ -1,4 +1,4 @@
-Dongcoin-Qt: Qt4 GUI for Bitcoin
+liliucoin-Qt: Qt4 GUI for Bitcoin
 ===============================
 
 Build instructions

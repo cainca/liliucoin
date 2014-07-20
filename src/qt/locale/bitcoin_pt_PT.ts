@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Dongcoin</source>
-        <translation>Sobre Dongcoin</translation>
+        <source>About liliucoin</source>
+        <translation>Sobre liliucoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Dongcoin&lt;/b&gt; version</source>
-        <translation>Versão do &lt;b&gt;Dongcoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;liliucoin&lt;/b&gt; version</source>
+        <translation>Versão do &lt;b&gt;liliucoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="+0"/>
-        <source>The Dongcoin developers</source>
-        <translation>Os programadores Dongcoin</translation>
+        <source>The liliucoin developers</source>
+        <translation>Os programadores liliucoin</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Dongcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estes são os seus endereços Dongcoin para receber pagamentos. Poderá enviar um endereço diferente para cada remetente para poder identificar os pagamentos.</translation>
+        <source>These are your liliucoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estes são os seus endereços liliucoin para receber pagamentos. Poderá enviar um endereço diferente para cada remetente para poder identificar os pagamentos.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Dongcoin address</source>
-        <translation>Assine uma mensagem para provar que é dono de um endereço Dongcoin</translation>
+        <source>Sign a message to prove you own a liliucoin address</source>
+        <translation>Assine uma mensagem para provar que é dono de um endereço liliucoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Dongcoin address</source>
-        <translation>Verifique a mensagem para assegurar que foi assinada com o endereço Dongcoin especificado</translation>
+        <source>Verify a message to ensure it was signed with a specified liliucoin address</source>
+        <translation>Verifique a mensagem para assegurar que foi assinada com o endereço liliucoin especificado</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Dongcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estes são os seus endereços Dongcoin para enviar pagamentos. Verifique sempre o valor e a morada de envio antes de enviar moedas.</translation>
+        <source>These are your liliucoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estes são os seus endereços liliucoin para enviar pagamentos. Verifique sempre o valor e a morada de envio antes de enviar moedas.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="-56"/>
-        <source>Dongcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dongcoins from being stolen by malware infecting your computer.</source>
-        <translation>O cliente Dongcoin irá agora ser fechado para terminar o processo de encriptação. Recorde que a encriptação da sua carteira não protegerá totalmente os seus dongcoins de serem roubados por programas maliciosos que infectem o seu computador.</translation>
+        <source>liliucoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your liliucoins from being stolen by malware infecting your computer.</source>
+        <translation>O cliente liliucoin irá agora ser fechado para terminar o processo de encriptação. Recorde que a encriptação da sua carteira não protegerá totalmente os seus liliucoins de serem roubados por programas maliciosos que infectem o seu computador.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -321,9 +321,9 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
 </context>
 <context>
-    <name>DongcoinGUI</name>
+    <name>liliucoinGUI</name>
     <message>
-        <location filename="../dongcoingui.cpp" line="+233"/>
+        <location filename="../liliucoingui.cpp" line="+233"/>
         <source>Sign &amp;message...</source>
         <translation>Assinar &amp;mensagem...</translation>
     </message>
@@ -374,8 +374,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Dongcoin</source>
-        <translation>Mostrar informação sobre Dongcoin</translation>
+        <source>Show information about liliucoin</source>
+        <translation>Mostrar informação sobre liliucoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Dongcoin address</source>
-        <translation>Enviar moedas para um endereço dongcoin</translation>
+        <source>Send coins to a liliucoin address</source>
+        <translation>Enviar moedas para um endereço liliucoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Dongcoin</source>
-        <translation>Modificar opções de configuração para dongcoin</translation>
+        <source>Modify configuration options for liliucoin</source>
+        <translation>Modificar opções de configuração para liliucoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Dongcoin</source>
-        <translation>Dongcoin</translation>
+        <source>liliucoin</source>
+        <translation>liliucoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Dongcoin</source>
-        <translation>&amp;Sobre o Dongcoin</translation>
+        <source>&amp;About liliucoin</source>
+        <translation>&amp;Sobre o liliucoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Dongcoin addresses to prove you own them</source>
-        <translation>Assine mensagens com os seus endereços Dongcoin para provar que os controla</translation>
+        <source>Sign messages with your liliucoin addresses to prove you own them</source>
+        <translation>Assine mensagens com os seus endereços liliucoin para provar que os controla</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Dongcoin addresses</source>
-        <translation>Verifique mensagens para assegurar que foram assinadas com o endereço Dongcoin especificado</translation>
+        <source>Verify messages to ensure they were signed with specified liliucoin addresses</source>
+        <translation>Verifique mensagens para assegurar que foram assinadas com o endereço liliucoin especificado</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message>
         <location line="+47"/>
-        <source>Dongcoin client</source>
-        <translation>Cliente Dongcoin</translation>
+        <source>liliucoin client</source>
+        <translation>Cliente liliucoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Dongcoin network</source>
-        <translation><numerusform>%n ligação ativa à rede Dongcoin</numerusform><numerusform>%n ligações ativas à rede Dongcoin</numerusform></translation>
+        <source>%n active connection(s) to liliucoin network</source>
+        <translation><numerusform>%n ligação ativa à rede liliucoin</numerusform><numerusform>%n ligações ativas à rede liliucoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Endereço: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Dongcoin address or malformed URI parameters.</source>
-        <translation>URI não foi lido correctamente! Isto pode ser causado por um endereço Dongcoin inválido ou por parâmetros URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid liliucoin address or malformed URI parameters.</source>
+        <translation>URI não foi lido correctamente! Isto pode ser causado por um endereço liliucoin inválido ou por parâmetros URI malformados.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,9 +670,9 @@ Endereço: %4
         <translation>A carteira está &lt;b&gt;encriptada&lt;/b&gt; e atualmente &lt;b&gt;bloqueada&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../dongcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Dongcoin can no longer continue safely and will quit.</source>
-        <translation>Ocorreu um erro fatal. O Dongcoin não pode continuar com segurança e irá fechar.</translation>
+        <location filename="../liliucoin.cpp" line="+111"/>
+        <source>A fatal error occurred. liliucoin can no longer continue safely and will quit.</source>
+        <translation>Ocorreu um erro fatal. O liliucoin não pode continuar com segurança e irá fechar.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Endereço: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Dongcoin address.</source>
-        <translation>O endereço introduzido &quot;%1&quot; não é um endereço dongcoin válido.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid liliucoin address.</source>
+        <translation>O endereço introduzido &quot;%1&quot; não é um endereço liliucoin válido.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Endereço: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Dongcoin-Qt</source>
-        <translation>Dongcoin-Qt</translation>
+        <source>liliucoin-Qt</source>
+        <translation>liliucoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Endereço: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Dongcoin after logging in to the system.</source>
-        <translation>Começar o Dongcoin automaticamente ao iniciar sessão no sistema.</translation>
+        <source>Automatically start liliucoin after logging in to the system.</source>
+        <translation>Começar o liliucoin automaticamente ao iniciar sessão no sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Dongcoin on system login</source>
-        <translation>&amp;Começar o Dongcoin ao iniciar o sistema</translation>
+        <source>&amp;Start liliucoin on system login</source>
+        <translation>&amp;Começar o liliucoin ao iniciar o sistema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Endereço: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Dongcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir a porta do cliente dongcoin automaticamente no seu router. Isto penas funciona se o seu router suportar UPnP e este se encontrar ligado.</translation>
+        <source>Automatically open the liliucoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir a porta do cliente liliucoin automaticamente no seu router. Isto penas funciona se o seu router suportar UPnP e este se encontrar ligado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Endereço: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Dongcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Ligar à rede Dongcoin através de um proxy SOCKS (p.ex. quando ligar através de Tor).</translation>
+        <source>Connect to the liliucoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Ligar à rede liliucoin através de um proxy SOCKS (p.ex. quando ligar através de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Endereço: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dongcoin.</source>
-        <translation>A linguagem da interface do utilizador pode ser definida aqui. Esta definição entrará em efeito após reiniciar o Dongcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting liliucoin.</source>
+        <translation>A linguagem da interface do utilizador pode ser definida aqui. Esta definição entrará em efeito após reiniciar o liliucoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Endereço: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Dongcoin addresses in the transaction list or not.</source>
-        <translation>Se mostrar, ou não, os endereços Dongcoin na lista de transações.</translation>
+        <source>Whether to show liliucoin addresses in the transaction list or not.</source>
+        <translation>Se mostrar, ou não, os endereços liliucoin na lista de transações.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Endereço: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Dongcoin.</source>
-        <translation>Esta opção entrará em efeito após reiniciar o Dongcoin.</translation>
+        <source>This setting will take effect after restarting liliucoin.</source>
+        <translation>Esta opção entrará em efeito após reiniciar o liliucoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Endereço: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dongcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada poderá estar desatualizada. A sua carteira sincroniza automaticamente com a rede Dongcoin depois de estabelecer ligação, mas este processo ainda não está completo.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the liliucoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>A informação mostrada poderá estar desatualizada. A sua carteira sincroniza automaticamente com a rede liliucoin depois de estabelecer ligação, mas este processo ainda não está completo.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,8 +1069,8 @@ Endereço: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start dongcoin: click-to-pay handler</source>
-        <translation>Impossível começar o modo clicar-para-pagar com dongcoin:</translation>
+        <source>Cannot start liliucoin: click-to-pay handler</source>
+        <translation>Impossível começar o modo clicar-para-pagar com liliucoin:</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Endereço: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Dongcoin-Qt help message to get a list with possible Dongcoin command-line options.</source>
-        <translation>Mostrar a mensagem de ajuda do Dongcoin-Qt para obter uma lista com possíveis opções a usar na linha de comandos.</translation>
+        <source>Show the liliucoin-Qt help message to get a list with possible liliucoin command-line options.</source>
+        <translation>Mostrar a mensagem de ajuda do liliucoin-Qt para obter uma lista com possíveis opções a usar na linha de comandos.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Endereço: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Dongcoin - Debug window</source>
-        <translation>Dongcoin - Janela de depuração</translation>
+        <source>liliucoin - Debug window</source>
+        <translation>liliucoin - Janela de depuração</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Dongcoin Core</source>
-        <translation>Núcleo Dongcoin</translation>
+        <source>liliucoin Core</source>
+        <translation>Núcleo liliucoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,7 +1254,7 @@ Endereço: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Dongcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the liliucoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Abrir o ficheiro de registo de depuração da pasta de dados actual. Isto pode demorar alguns segundos para ficheiros de registo maiores.</translation>
     </message>
     <message>
@@ -1264,8 +1264,8 @@ Endereço: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Dongcoin RPC console.</source>
-        <translation>Bem-vindo à consola RPC Dongcoin.</translation>
+        <source>Welcome to the liliucoin RPC console.</source>
+        <translation>Bem-vindo à consola RPC liliucoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,8 +1448,8 @@ Endereço: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Dongcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introduza um endereço Dongcoin (p.ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a liliucoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Introduza um endereço liliucoin (p.ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Endereço: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Dongcoin address</source>
-        <translation>Assine uma mensagem para provar que é dono deste endereço Dongcoin</translation>
+        <source>Sign the message to prove you own this liliucoin address</source>
+        <translation>Assine uma mensagem para provar que é dono deste endereço liliucoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Endereço: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Dongcoin address</source>
-        <translation>Verifique a mensagem para assegurar que foi assinada com o endereço Dongcoin especificado</translation>
+        <source>Verify the message to ensure it was signed with the specified liliucoin address</source>
+        <translation>Verifique a mensagem para assegurar que foi assinada com o endereço liliucoin especificado</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Endereço: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Dongcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introduza um endereço Dongcoin (p.ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a liliucoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Introduza um endereço liliucoin (p.ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Endereço: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Dongcoin signature</source>
-        <translation>Introduza assinatura Dongcoin</translation>
+        <source>Enter liliucoin signature</source>
+        <translation>Introduza assinatura liliucoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Endereço: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Dongcoin developers</source>
-        <translation>Os programadores Dongcoin</translation>
+        <source>The liliucoin developers</source>
+        <translation>Os programadores liliucoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2184,11 +2184,11 @@ Endereço: %4
     </message>
 </context>
 <context>
-    <name>dongcoin-core</name>
+    <name>liliucoin-core</name>
     <message>
-        <location filename="../dongcoinstrings.cpp" line="+94"/>
-        <source>Dongcoin version</source>
-        <translation>Versão Dongcoin</translation>
+        <location filename="../liliucoinstrings.cpp" line="+94"/>
+        <source>liliucoin version</source>
+        <translation>Versão liliucoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Endereço: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or dongcoind</source>
-        <translation>Enviar comando para -server ou dongcoind</translation>
+        <source>Send command to -server or liliucoind</source>
+        <translation>Enviar comando para -server ou liliucoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Endereço: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: dongcoin.conf)</source>
-        <translation>Especificar ficheiro de configuração (por defeito: dongcoin.conf)</translation>
+        <source>Specify configuration file (default: liliucoin.conf)</source>
+        <translation>Especificar ficheiro de configuração (por defeito: liliucoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: dongcoind.pid)</source>
-        <translation>Especificar ficheiro pid (por defeito: dongcoind.pid)</translation>
+        <source>Specify pid file (default: liliucoind.pid)</source>
+        <translation>Especificar ficheiro pid (por defeito: liliucoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,24 +2300,24 @@ Endereço: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=dongcoinrpc
+rpcuser=liliucoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dongcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;liliucoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, deverá definir rpcpassword no ficheiro de configuração :
  %s
 É recomendado que use a seguinte palavra-passe aleatória:
-rpcuser=dongcoinrpc
+rpcuser=liliucoinrpc
 rpcpassword=%s
 (não precisa recordar esta palavra-passe)
 O nome de utilizador e password NÃO DEVEM ser iguais.
 Se o ficheiro não existir, crie-o com permissões de leitura apenas para o dono.
 Também é recomendado definir alertnotify para que seja alertado sobre problemas;
-por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Dongcoin&quot; admin@foo.com
+por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta liliucoin&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Dongcoin&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Dongcoin is probably already running.</source>
-        <translation>Impossível trancar a pasta de dados %s.  Provavelmente o Dongcoin já está a ser executado.</translation>
+        <source>Cannot obtain a lock on data directory %s. liliucoin is probably already running.</source>
+        <translation>Impossível trancar a pasta de dados %s.  Provavelmente o liliucoin já está a ser executado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Dongcoin&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dongcoin will not work properly.</source>
-        <translation>Atenção: Por favor verifique que a data e hora do seu computador estão correctas! Se o seu relógio não estiver certo o Dongcoin não irá funcionar correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong liliucoin will not work properly.</source>
+        <translation>Atenção: Por favor verifique que a data e hora do seu computador estão correctas! Se o seu relógio não estiver certo o liliucoin não irá funcionar correctamente.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Dongcoin&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Dongcoin Wiki for SSL setup instructions)</source>
-        <translation>Opções SSL: (ver a Wiki Dongcoin para instruções de configuração SSL)</translation>
+        <source>SSL options: (see the liliucoin Wiki for SSL setup instructions)</source>
+        <translation>Opções SSL: (ver a Wiki liliucoin para instruções de configuração SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Dongcoin&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dongcoin</source>
-        <translation>Erro ao carregar wallet.dat: A Carteira requer uma versão mais recente do Dongcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of liliucoin</source>
+        <translation>Erro ao carregar wallet.dat: A Carteira requer uma versão mais recente do liliucoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Dongcoin to complete</source>
-        <translation>A Carteira precisou ser reescrita: reinicie o Dongcoin para completar</translation>
+        <source>Wallet needed to be rewritten: restart liliucoin to complete</source>
+        <translation>A Carteira precisou ser reescrita: reinicie o liliucoin para completar</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Dongcoin&quot; admin@fo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Dongcoin is probably already running.</source>
-        <translation>Incapaz de vincular à porta %s neste computador.  Provavelmente o Dongcoin já está a funcionar.</translation>
+        <source>Unable to bind to %s on this computer. liliucoin is probably already running.</source>
+        <translation>Incapaz de vincular à porta %s neste computador.  Provavelmente o liliucoin já está a funcionar.</translation>
     </message>
     <message>
         <location line="+64"/>

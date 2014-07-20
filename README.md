@@ -1,29 +1,29 @@
-Dongcoin integration/staging tree
+liliucoin integration/staging tree
 ================================
 
 http://www.coingen.io
 
 Copyright (c) 2009-2013 Bitcoin Developers
 
-What is Dongcoin?
+What is liliucoin?
 ----------------
 
-Dongcoin is an experimental new digital currency that enables instant payments to
-anyone, anywhere in the world. Dongcoin uses peer-to-peer technology to operate
+liliucoin is an experimental new digital currency that enables instant payments to
+anyone, anywhere in the world. liliucoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Dongcoin is also the name of the open source
+out collectively by the network. liliucoin is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Dongcoin client software, see http://www.coingen.io.
+the liliucoin client software, see http://www.coingen.io.
 
 License
 -------
 
-Dongcoin is released under the terms of the MIT license. See `COPYING` for more
+liliucoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
-Dongcoin is based on Bitcoin.
+liliucoin is based on Bitcoin.
 Its development tracks Bitcoin's, the following information applies to Bitcoin's developemnt.
 Development process
 -------------------

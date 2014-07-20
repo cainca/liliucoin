@@ -1,14 +1,14 @@
-Compiling/running dongcoind unit tests
+Compiling/running liliucoind unit tests
 ------------------------------------
 
-dongcoind unit tests are in the `src/test/` directory; they
+liliucoind unit tests are in the `src/test/` directory; they
 use the Boost::Test unit-testing framework.
 
 To compile and run the tests:
 
 	cd src
-	make -f makefile.unix test_dongcoin  # Replace makefile.unix if you're not on unix
-	./test_dongcoin   # Runs the unit tests
+	make -f makefile.unix test_liliucoin  # Replace makefile.unix if you're not on unix
+	./test_liliucoin   # Runs the unit tests
 
 If all tests succeed the last line of output will be:
 `*** No errors detected`
@@ -16,13 +16,13 @@ If all tests succeed the last line of output will be:
 To add more tests, add `BOOST_AUTO_TEST_CASE` functions to the existing
 .cpp files in the test/ directory or add new .cpp files that
 implement new BOOST_AUTO_TEST_SUITE sections (the makefiles are
-set up to add test/*.cpp to test_dongcoin automatically).
+set up to add test/*.cpp to test_liliucoin automatically).
 
 
-Compiling/running Dongcoin-Qt unit tests
+Compiling/running liliucoin-Qt unit tests
 ---------------------------------------
 
-Dongcoin-Qt unit tests are in the src/qt/test/ directory; they
+liliucoin-Qt unit tests are in the src/qt/test/ directory; they
 use the Qt unit-testing framework.
 
 To compile and run the tests:

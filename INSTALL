@@ -1,9 +1,9 @@
-Building Dongcoin
+Building liliucoin
 
-See doc/readme-qt.rst for instructions on building Dongcoin-Qt,
+See doc/readme-qt.rst for instructions on building liliucoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Dongcoin.
+implementation of liliucoin.
 
-See doc/build-*.txt for instructions on building dongcoind,
+See doc/build-*.txt for instructions on building liliucoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Dongcoin.
+implementation of liliucoin.
